@@ -47,4 +47,3 @@ This repository contains bioinformatics scripts, relavant data, and the custom r
 - MIDORI2 database (https://www.reference-midori.info/)
 - PR2 database (https://pr2-database.org/)
 - collection of crayfish sequence (pre-curation) is available at (https://www.ncbi.nlm.nih.gov/sites/myncbi/boualaphan.phonesavanh.1/collections/65715670/public/)
-- 
