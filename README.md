@@ -36,16 +36,15 @@ This repository contains bioinformatics scripts, relavant data, and the custom r
   - Relative abundances
   - Marker-specific detection (COI vs 18S)
 
-### References
-Chang et al. 2024.
-De Coster & Rademakers 2023.
-De Coster et al. 2018.
-Guillou et al. 2012.
-Kouba, Petrusek & Kozák 2014.
-Machida et al. 2017.
-Martin 2011.
-Rognes et al. 2016.
-Santos et al. 2020.
-Stoeck et al. 2024.
-Wick 2018.
+### Relavant Data 
+- As the file is too big to put in the final uploaded paper, I decided to upload them here. you can find the table of species detected by MIDORI2 and PR2
+- Table S2. COI-based taxonomic assignment using MIDORI2.
+- Additional table of species detected using 18S
 
+### Reference databases
+- Custom reference database for crayfish using COI from NCBI (https://www.ncbi.nlm.nih.gov/)
+- Custom reference database for crayfish using 18S (https://www.ncbi.nlm.nih.gov/)
+- MIDORI2 database (https://www.reference-midori.info/)
+- PR2 database (https://pr2-database.org/)
+- collection of crayfish sequence (pre-curation) is available at (https://www.ncbi.nlm.nih.gov/sites/myncbi/boualaphan.phonesavanh.1/collections/65715670/public/)
+- 
