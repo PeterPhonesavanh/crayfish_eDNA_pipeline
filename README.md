@@ -41,9 +41,13 @@ This repository contains bioinformatics scripts, relavant data, and the custom r
 - Table S2. COI-based taxonomic assignment using MIDORI2.
 - Additional table of species detected using 18S
 
-### Reference databases
+### Custom reference databases
 - Custom reference database for crayfish using COI from NCBI (https://www.ncbi.nlm.nih.gov/)
 - Custom reference database for crayfish using 18S (https://www.ncbi.nlm.nih.gov/)
+- Collection of crayfish sequence (pre-curation) is available at (https://www.ncbi.nlm.nih.gov/sites/myncbi/boualaphan.phonesavanh.1/collections/65715670/public/)
+
+### Curated reference database 
+- both curated reference database is publicly available at:
 - MIDORI2 database (https://www.reference-midori.info/)
 - PR2 database (https://pr2-database.org/)
-- collection of crayfish sequence (pre-curation) is available at (https://www.ncbi.nlm.nih.gov/sites/myncbi/boualaphan.phonesavanh.1/collections/65715670/public/)
+
